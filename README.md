@@ -14,3 +14,5 @@ then run phpunit
 ```
 ./vendor/phpunit/phpunit/phpunit
 ```
+
+![PHPUnit](https://github.com/myself379/hierarchy-recursion-sample/blob/master/public/PHPUnitTest.png)
